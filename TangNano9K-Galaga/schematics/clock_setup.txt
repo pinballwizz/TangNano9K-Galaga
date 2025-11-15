@@ -1,0 +1,2 @@
+This project uses a 48Mhz Clock setup on Pin10 of the Tang Nano 20K. This clock needs to be enabled and configured using the instructions found here:
+https://github.com/sipeed/sipeed_wiki/blob/main/docs/hardware/en/tang/tang-nano-20k/example/unbox.md#advanced-usage
